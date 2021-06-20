@@ -1,0 +1,5 @@
+pafy
+youtube_dl
+opencv-python
+boto3
+keyboard
